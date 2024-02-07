@@ -1,6 +1,6 @@
 {
-    "name": "imapflow",
-    "version": "1.0.150",
+    "name": "imapflow-no-proxy-ip-resolve",
+    "version": "1.0.152",
     "description": "IMAP Client for Node",
     "main": "./lib/imap-flow.js",
     "scripts": {
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/postalsys/imapflow.git"
+        "url": "git+https://github.com/16Yongjin/imapflow-no-proxy-ip-resolve.git"
     },
     "keywords": [
         "imap",
